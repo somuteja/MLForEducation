@@ -1,2 +1,2 @@
 # MLForEducation
-Some projects on education related applications
+Some machine learning projects for education.
